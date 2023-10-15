@@ -22,7 +22,7 @@ let facul = [
 let leadMemberDetails2023 = [
   {
     id: 0,
-    name: "Shreya Sarkar",
+    name: "Sejal Chaurasia",
     avatar: "../assets/img/team/Shreya_lead_23.jfif",
     badges: `
                     <span class="blue">2023</span>
