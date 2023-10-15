@@ -72,10 +72,10 @@ let leadMemberDetails2023 = [
 let coreMembersDetails2023 = [
   {
     id:0,
-    name:"Zaid Mahmud",
+    name:"Param Chauragade",
     avatar: "../assets/img/team/Zaid_Mahmud.jfif",
     badges: `
-      <span class="green">Android</span>
+      <span class="green">Web Devlopment</span>
       <span class="blue">Lead</span>
       `,
     cardBorderColor: "red",
@@ -85,10 +85,10 @@ let coreMembersDetails2023 = [
   },
   {
     id:1,
-    name:"Arjun Choudhury",
+    name:"Yash Raut",
     avatar: "../assets/img/team/Arjun_Choudhury.jfif",
     badges: `
-      <span class="red">Web</span>
+      <span class="red">Android Development</span>
       <span class="yellow">Lead</span>
     `,
     cardBorderColor: "blue",
