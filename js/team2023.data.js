@@ -79,9 +79,9 @@ let coreMembersDetails2023 = [
       <span class="blue">Lead</span>
       `,
     cardBorderColor: "red",
-    socialGithubLink: "https://github.com/Zaid-0504",
-    socialLinkedinLink: "https://www.linkedin.com/in/zaid-mahmud-7b6b90249/",
-    socialTwitterLink: "https://twitter.com/mahmud_zaid1435?t=zEL5H2ZMh2ScsstrM2a1HQ&s=09",
+    socialGithubLink: "",
+    socialLinkedinLink: "",
+    socialTwitterLink: "",
   },
   {
     id:1,
@@ -92,17 +92,17 @@ let coreMembersDetails2023 = [
       <span class="yellow">Lead</span>
     `,
     cardBorderColor: "blue",
-    socialGithubLink: "https://github.com/arjunchoudhury07",
-    socialLinkedinLink: "https://www.linkedin.com/in/arjun-choudhury-469671227/",
-    socialTwitterLink: "#",
+    socialGithubLink: "",
+    socialLinkedinLink: "",
+    socialTwitterLink: "",
   },
   {
     id:2,
     name:"Sameer Tarare",
     avatar: "../assets/img/team/Sayan_Majumder.jfif",
     badges: `
-      <span class="blue">Web</span>
-      <span class="red">Lead</span>
+      <span class="blue">Cybersecurity</span>
+      <span class="red">Head</span>
     `,
     cardBorderColor: "green",
     socialGithubLink: "https://github.com/Sayan404",
@@ -114,26 +114,26 @@ let coreMembersDetails2023 = [
     name:"Rahul Salame",
     avatar: "../assets/img/team/Abhigyan_Singh.jfif",
     badges: `
-      <span class="green">Flutter</span>
-      <span class="blue">Lead</span>
+      <span class="green">Management Team</span>
+      <span class="blue">Head</span>
     `,
     cardBorderColor: "yellow",
-    socialGithubLink: "https://github.com/Abhigyan103",
-    socialLinkedinLink: "https://www.linkedin.com/in/abhigyan103/",
-    socialTwitterLink: "https://twitter.com/Abhigyan103",
+    socialGithubLink: "",
+    socialLinkedinLink: "",
+    socialTwitterLink: "",
   },
   {
     id:4,
     name:"Sujal Taware",
     avatar: "../assets/img/team/Dhiraj_Thakur.jfif",
     badges: `
-      <span class="green">Management</span>
-      <span class="red">Lead</span>
+      <span class="green">Design and Content Team</span>
+      <span class="red">Head</span>
     `,
-    cardBorderColor: "yellow",
-    socialGithubLink: "https://github.com/DRJ2002",
-    socialLinkedinLink: "https://www.linkedin.com/in/dhiraj-thakur-7145a3229",
-    socialTwitterLink: "#",
+    cardBorderColor: "red",
+    socialGithubLink: "",
+    socialLinkedinLink: "",
+    socialTwitterLink: "",
   },
 ]
 
