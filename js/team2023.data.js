@@ -98,7 +98,7 @@ let coreMembersDetails2023 = [
   },
   {
     id:2,
-    name:"Sayan Majumder",
+    name:"Sameer Tarare",
     avatar: "../assets/img/team/Sayan_Majumder.jfif",
     badges: `
       <span class="blue">Web</span>
@@ -111,7 +111,7 @@ let coreMembersDetails2023 = [
   },
   {
     id:3,
-    name:"Abhigyan Singh",
+    name:"Rahul Salame",
     avatar: "../assets/img/team/Abhigyan_Singh.jfif",
     badges: `
       <span class="green">Flutter</span>
@@ -124,7 +124,7 @@ let coreMembersDetails2023 = [
   },
   {
     id:4,
-    name:"Dhiraj Thakur",
+    name:"Sujal Taware",
     avatar: "../assets/img/team/Dhiraj_Thakur.jfif",
     badges: `
       <span class="green">Management</span>
@@ -134,62 +134,6 @@ let coreMembersDetails2023 = [
     socialGithubLink: "https://github.com/DRJ2002",
     socialLinkedinLink: "https://www.linkedin.com/in/dhiraj-thakur-7145a3229",
     socialTwitterLink: "#",
-  },
-  {
-    id:5,
-    name:"Arkamitra Ghosh",
-    avatar: "../assets/img/team/Arkamitra_Ghosh.jfif",
-    badges: `
-      <span class="red">Design</span>
-      <span class="blue">Graphics</span>
-      <span class="yellow">Lead</span>
-    `,
-    cardBorderColor: "green",
-    socialGithubLink: "https://github.com/Arkarik01",
-    socialLinkedinLink: "https://www.linkedin.com/in/arkamitra-ghosh-aba459226/",
-    socialTwitterLink: "#",
-  },
-  {
-    id:6,
-    name:"Sanket Chowdhury",
-    avatar: "../assets/img/team/Sanket_Chowdhury.jfif",
-    badges: `
-      <span class="blue">Content</span>
-      <span class="green">Lead</span>
-    `,
-    cardBorderColor: "red",
-    socialGithubLink: "https://github.com/Sanket0S",
-    socialLinkedinLink: "https://www.linkedin.com/in/sanket-chowdhury-004139274",
-    socialTwitterLink: "https://twitter.com/Sanket_0s",
-  },
-  {
-    id:7,
-    name:"Atri Sukul",
-    avatar: "../assets/img/team/Atri_Sukul.jfif",
-    badges: `
-      <span class="yellow">AI</span>
-      <span class="red">ML</span>
-      <span class="green">Lead</span>
-    `,
-    cardBorderColor: "blue",
-    socialGithubLink: "https://github.com/AtriSukul1508",
-    socialLinkedinLink: "https://www.linkedin.com/in/atri-sukul-35a9b022a",
-    socialTwitterLink: "#",
-  },
-  {
-    id:8,
-    name:"Akash Mondal",
-    avatar: "../assets/img/team/Akash_Mondal.jfif",
-    badges: `
-      <span class="yellow">CP</span>
-      <span class="red">DSA</span>
-      <span class="green">Lead</span>
-    `,
-    cardBorderColor: "blue",
-
-    socialGithubLink: "https://github.com/AkashMondal61",
-    socialLinkedinLink: "https://www.linkedin.com/in/akash-mondal-691608225",
-    socialTwitterLink: "https://twitter.com/AkashMonda78882",
   },
 ]
 
