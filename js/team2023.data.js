@@ -142,35 +142,37 @@ let coreMembersDetails2023 = [
 let exCoreMemberDetails2023 = [
   {
     id: 0,
-    name: "Subhajit Barman",
+    name: "Subham Dongre",
     avatar: "../assets/img/team/Subhajit_Barman.jfif",
     badges: `
       <span class="blue">Web</span>
       <span class="green">Team</span>
+      <span class="red">Member</span>
     `,
     cardBorderColor: "red",
 
-    socialGithubLink: "https://github.com/SubhajitB05",
-    socialLinkedinLink: "https://www.linkedin.com/in/subhajit-linkedb05/",
-    socialTwitterLink: "https://twitter.com/Your_subha_30",
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
+    socialTwitterLink: "#",
   },
   {
     id: 1,
-    name: "Pritam Chakraborty",
+    name: "Saurabh Ghute",
     avatar: "../assets/img/team/Pritam_Chakraborty.jfif",
     badges: `
-      <span class="green">Flutter</span>
+      <span class="green">Web</span>
       <span class="yellow">Team</span>
+      <span class="red">Member</span>
     `,
     cardBorderColor: "blue",
 
-    socialGithubLink: "https://github.com/rahulisbusy",
-    socialLinkedinLink: "https://www.linkedin.com/in/pritam-chakraborty-0b74b4243",
-    socialTwitterLink: "https://twitter.com/itsrahul2003?t=9IcTpt7P8-C7JuMypiJpVw&s=09",
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
+    socialTwitterLink: "#",
   },
   {
     id: 2,
-    name: "Aditya Saha",
+    name: "Krunal Bais",
     avatar: "../assets/img/team/Aditya_Saha.jfif",
     badges: `
       <span class="blue">Design</span>
@@ -181,12 +183,12 @@ let exCoreMemberDetails2023 = [
     cardBorderColor: "yellow",
 
     socialGithubLink: "#",
-    socialLinkedinLink: "https://www.linkedin.com/in/aditya-saha-607110254/",
+    socialLinkedinLink: "#",
     socialTwitterLink: "#",
   },
   {
     id: 3,
-    name: "Souhardya Banerjee",
+    name: "Bhavika Salunkhe",
     avatar: "../assets/img/team/Souhardya_Banerjee.jfif",
     badges: `
       <span class="yellow">Design</span>
@@ -196,90 +198,155 @@ let exCoreMemberDetails2023 = [
     `,
     cardBorderColor: "green",
 
-    socialGithubLink: "https://github.com/SouhardyaBanerjee",
-    socialLinkedinLink: "https://www.linkedin.com/in/souhardyabanerjee",
-    socialTwitterLink: "https://twitter.com/SouhardyaB94401",
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
+    socialTwitterLink: "#",
   },
   {
     id: 4,
-    name: "Soham Ahmed Molla",
+    name: "Vedant Ujjainkar",
     avatar: "../assets/img/team/Soham_Ahmed_Molla.jfif",
     badges: `
-      <span class="red">Design</span>
-      <span class="blue">Graphics</span>
-      <span class="green">Team</span>
+      <span class="red">App Dev</span>
+      <span class="blue">Team</span>
+      <span class="green">Member</span>
       
     `,
     cardBorderColor: "yellow",
 
-    socialGithubLink: "https://github.com/Darkchocolate-raj",
-    socialLinkedinLink: "https://www.linkedin.com/in/soham-ahmed-molla-29b381254/",
-    socialTwitterLink: "https://twitter.com/sohamahmed_01",
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
+    socialTwitterLink: "#",
   },
   {
     id: 5,
-    name: "Gourab Modak",
+    name: "Vignesh Bhoge",
     avatar: "../assets/img/team/Gourab_Modak.jfif",
     badges: `
-      <span class="yellow">AI</span>
-      <span class="blue">ML</span>
-      <span class="red">Team</span>
+      <span class="yellow">App Dev</span>
+      <span class="blue">Team</span>
+      <span class="green">Member</span>
       
     `,
     cardBorderColor: "green",
 
-    socialGithubLink: "https://github.com/gauravthedeveloper",
-    socialLinkedinLink: "https://www.linkedin.com/in/gourabmodak",
-    socialTwitterLink: "https://twitter.com/gourabmodak28?t=alfPSqNWVkOgkMBD86ZoLA&s=09",
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
+    socialTwitterLink: "#",
   },
   {
     id: 6,
-    name: "Urnisha Paul",
+    name: "Rahul Padole",
     avatar: "../assets/img/team/Urnisha_Paul.jfif",
     badges: `
-      <span class="green">AI</span>
-      <span class="blue">ML</span>
-      <span class="yellow">Team</span>
+      <span class="green">App Dev</span>
+      <span class="blue">Team</span>
+      <span class="yellow">Member</span>
       
     `,
     cardBorderColor: "red",
 
-    socialGithubLink: "https://github.com/flawed-hooman",
-    socialLinkedinLink: "https://www.linkedin.com/in/urnisha-paul-277689254",
-    socialTwitterLink: "https://twitter.com/flawed_hooman?t=0NYTGURa0HWgfBd3FBYJSg&s=09",
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
+    socialTwitterLink: "#",
   },
   {
     id: 7,
-    name: "Spandan Bhattacharya",
+    name: "Vedant Hore",
     avatar: "../assets/img/team/Spandan_Bhattacharya.jfif",
     badges: `
-      <span class="yellow">CP</span>
-      <span class="green">DSA</span>
-      <span class="red">Team</span>
+      <span class="yellow">Cybersecurity</span>
+      <span class="green">Team</span>
+      <span class="red">Member</span>
       
     `,
     cardBorderColor: "blue",
 
-    socialGithubLink: "https://github.com/spandan-bhattacharya",
-    socialLinkedinLink: "https://www.linkedin.com/in/spandan-bhattacharya-02509b227",
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
     socialTwitterLink: "#",
   },
   {
     id: 8,
-    name: "Kushal Ghosh",
+    name: "Yash Devkate",
     avatar: "../assets/img/team/Kushal Ghosh.jfif",
     badges: `
-      <span class="blue">CP</span>
-      <span class="green">DSA</span>
-      <span class="red">Team</span>
+      <span class="blue">Cybersecurity</span>
+      <span class="green">Team</span>
+      <span class="red">Member</span>
       
     `,
     cardBorderColor: "yellow",
 
-    socialGithubLink: "https://www.linkedin.com/in/kushaljgec2025",
-    socialLinkedinLink: "https://github.com/kushaljgec2025",
-    socialTwitterLink: "https://twitter.com/kg_codex2?t=f02cLkP21z1Jjuk476mmMw&s=09",
-  }
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
+    socialTwitterLink: "#",
+  },
+   {
+    id: 8,
+    name: "Sameer Turkar",
+    avatar: "../assets/img/team/Kushal Ghosh.jfif",
+    badges: `
+      <span class="blue">Cybersecurity</span>
+      <span class="green">Team</span>
+      <span class="red">Member</span>
+      
+    `,
+    cardBorderColor: "yellow",
+
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
+    socialTwitterLink: "#",
+  },
+   {
+    id: 8,
+    name: "Ashwajit Surkar",
+    avatar: "../assets/img/team/Kushal Ghosh.jfif",
+    badges: `
+      <span class="red">Design and</span>
+      <span class="green">Content Team</span>
+      <span class="yellow">Member</span>
+      
+    `,
+    cardBorderColor: "yellow",
+
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
+    socialTwitterLink: "#",
+  },
+  {
+    id: 8,
+    name: "Ashwajit Surkar",
+    avatar: "../assets/img/team/Kushal Ghosh.jfif",
+    badges: `
+      <span class="red">Design and</span>
+      <span class="green">Content Team</span>
+      <span class="yellow">Member</span>
+      
+    `,
+    cardBorderColor: "yellow",
+
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
+    socialTwitterLink: "#",
+  },
+  {
+    id: 8,
+    name: "Ashwajit Surkar",
+    avatar: "../assets/img/team/Kushal Ghosh.jfif",
+    badges: `
+      <span class="red">Design and</span>
+      <span class="green">Content Team</span>
+      <span class="yellow">Member</span>
+      
+    `,
+    cardBorderColor: "yellow",
+
+    socialGithubLink: "#",
+    socialLinkedinLink: "#",
+    socialTwitterLink: "#",
+  },
+  
 ]
 
 
