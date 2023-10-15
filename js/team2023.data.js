@@ -5,11 +5,11 @@
 let facul = [
   {
     id: 0,
-    name: "Dr. Dipak Kumar Kole",
+    name: "Mrs. Rasika Rewatkar",
     avatar: "../assets/img/team/Dr.DKK.jfif",
     badges: `
       <span class="red">Professor</span>
-      <span class="green">JGEC</span>
+      <span class="green">KITS, Ramtek</span>
     `,
     cardBorderColor: "blue",
     // socialGithubLink: "#",
