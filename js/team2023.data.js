@@ -34,6 +34,36 @@ let leadMemberDetails2023 = [
     socialGithubLink: "https://github.com/zugzwang03",
     socialLinkedinLink: "https://www.linkedin.com/in/shreya-sarkar-a788b4225/",
     socialTwitterLink: "https://twitter.com/zugzwang03",
+  },
+  {
+    id: 0,
+    name: "Yash Devkate",
+    avatar: "../assets/img/team/Shreya_lead_23.jfif",
+    badges: `
+                    <span class="blue">2023</span>
+                    <span class="green">GDSC</span>
+                    <span class="yellow">Co-Lead</span>
+                `,
+    cardBorderColor: "red",
+
+    socialGithubLink: "https://github.com/zugzwang03",
+    socialLinkedinLink: "https://www.linkedin.com/in/shreya-sarkar-a788b4225/",
+    socialTwitterLink: "https://twitter.com/zugzwang03",
+  },
+  {
+    id: 0,
+    name: "Samiksha Mendhe",
+    avatar: "../assets/img/team/Shreya_lead_23.jfif",
+    badges: `
+                    <span class="blue">2023</span>
+                    <span class="green">GDSC</span>
+                    <span class="yellow">Co-Lead</span>
+                `,
+    cardBorderColor: "red",
+
+    socialGithubLink: "https://github.com/zugzwang03",
+    socialLinkedinLink: "https://www.linkedin.com/in/shreya-sarkar-a788b4225/",
+    socialTwitterLink: "https://twitter.com/zugzwang03",
   }
   
 ];
